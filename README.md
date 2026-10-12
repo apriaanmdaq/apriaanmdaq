@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I'm @apriaanmdaq
+- 🤖 I'm interested in Artificial Intelligence & Software Engineering
+- 🧠 Exploring AI agents, LLMs, and AI-powered applications
+- 📫 Reach me at dwiky.dev@gmail.com
 
 <!--
 **apriaanmdaq/apriaanmdaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
